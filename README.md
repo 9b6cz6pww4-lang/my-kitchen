@@ -7,3 +7,4 @@
 5. Локально: `npm install`, затем `npm run dev`.
 6. Публикация: загрузите папку на GitHub → vercel.com → Import → в Environment Variables добавьте VITE_SUPABASE_URL и VITE_SUPABASE_ANON_KEY → Deploy.
 7. iPhone: откройте ссылку в Safari → «Поделиться» → «На экран Домой».
+.
